@@ -2,4 +2,4 @@
 P.S. Репозитории на личном github профиле будут архивированны!
 
 Стата :
-https://img.shields.io/badge/Живой-Вроде-yellow
+![сплёв1](https://img.shields.io/badge/Живой-Вроде-yellow)
